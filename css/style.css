@@ -1,3 +1,11 @@
+body {
+  text-align: center;
+}
+
+/* =============================
+HEADER
+================================ */
+
 h1 {
   font-family: monospace;
   font-size: 90px;
@@ -15,6 +23,9 @@ h2 a {
   text-decoration: none;
 }
 
+/* =============================
+BODY Styles
+================================ */
 p {
   font-family: cursive;
   font-style: italic;
@@ -25,12 +36,14 @@ ul {
   color: #ff6666;
   font-size: 20px;
   font-weight: bolder;
+  text-align: left;
 }
 ul li {
   font-family: monospace;
   color: #ff6666;
   font-size: 20px;
   font-weight: normal;
+
 }
 
 ol {
@@ -38,6 +51,7 @@ ol {
   color: #00aa00;
   font-size: 20px;
   font-weight: bolder;
+  text-align: left;
 }
 
 ol li {
@@ -52,4 +66,20 @@ span {
   font-weight:bolder;
   font-style: italic;
   color: #ff6666;
+}
+
+/* =============================
+Layout
+================================ */
+
+
+h1 {
+  text-align: center;
+}
+
+
+
+.yawn {
+  height: 600px;
+  width: 600px;
 }
