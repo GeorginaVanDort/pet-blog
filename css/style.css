@@ -1,0 +1,55 @@
+h1 {
+  font-family: monospace;
+  font-size: 90px;
+  color: #ff6666;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 40px;
+  color: #ff6600;
+}
+
+h2 a {
+  color: #ff6600;
+  text-decoration: none;
+}
+
+p {
+  font-family: cursive;
+  font-style: italic;
+}
+
+ul {
+  font-family: monospace;
+  color: #ff6666;
+  font-size: 20px;
+  font-weight: bolder;
+}
+ul li {
+  font-family: monospace;
+  color: #ff6666;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+ol {
+  font-family: monospace;
+  color: #00aa00;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+ol li {
+  font-family: monospace;
+  color: #00aa00;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+span {
+  font-size: 30px;
+  font-weight:bolder;
+  font-style: italic;
+  color: #ff6666;
+}
