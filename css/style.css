@@ -18,17 +18,18 @@ h2 {
   color: #ff6600;
 }
 
-h2 a {
-  color: #ff6600;
-  text-decoration: none;
-}
-
 /* =============================
 BODY Styles
 ================================ */
 p {
-  font-family: cursive;
-  font-style: italic;
+font-family: 'Sacramento', cursive;
+font-size: 40px;
+color: #147D7D;
+}
+
+a {
+  color: #ff6600;
+  text-decoration: none;
 }
 
 ul {
@@ -77,9 +78,21 @@ h1 {
   text-align: center;
 }
 
+#hair {
+  margin:auto;
+  border-radius: 25%;
+}
 
-
-.yawn {
+#yawn {
   height: 600px;
   width: 600px;
+  margin:auto;
+  border-radius: 25%;
+  padding-top: 20px;
+}
+
+.otherhalf {
+  max-width: 600px;
+  text-align: center;
+  margin:auto;
 }
